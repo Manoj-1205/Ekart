@@ -1,0 +1,37 @@
+table,
+td,
+th {
+  /*border: 1px solid grey;*/
+  border-collapse: collapse;
+}
+td {
+  font-size: 20px;
+}
+table {
+  width: 90%;
+  margin: 50px 120px 0px 120px;
+}
+.front {
+  width: 500px !important;
+}
+.wallet {
+  text-align: end;
+  font-size: large;
+  font-style: italic;
+  margin-right: 200px;
+  color: grey;
+}
+.counter {
+  width: 20px;
+  display: inline-block;
+  text-align: center;
+}
+.spancount {
+  margin-left: 200px;
+}
+.qty {
+  display: inline-block;
+}
+div.placeorder {
+  text-align: center;
+}

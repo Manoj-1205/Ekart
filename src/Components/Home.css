@@ -1,0 +1,15 @@
+.login{
+    margin: 100px 300px 0 300px;
+    border:1px solid black;
+    padding: 20px;
+    text-align: center;
+
+}
+.label{
+    cursor: pointer;
+            display: inline-block;
+            padding: 3px 6px;
+            text-align: right;
+            width: 200px;
+            vertical-align: top;
+}
