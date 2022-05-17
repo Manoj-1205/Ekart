@@ -27,7 +27,7 @@ const Kart = () => {
       setWallet(wallet - netprice);
       setPurchase(true);
     } else {
-      alert("Please add amount to wallet to order.");
+      alert("Please add amount to wallet to order..");
       setPurchase(false);
     }
     alert("Amount deducted : " + JSON.stringify(netprice));
